@@ -1,5 +1,8 @@
 # What is Overriding ?
 # used when child class has same methods like parent class.
+# different class , same method name , same signature , has a relationship
+
+
 
 # Program -->
 class Bank:
@@ -18,3 +21,4 @@ class SBI(Bank):
 sbi = SBI()
 sbi.loan()
 sbi.save()
+
