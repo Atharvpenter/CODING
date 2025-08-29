@@ -1,5 +1,8 @@
 # What is overloading ?
 # it uses same function/operator but it gives different behaviours.
+# same class , same method name , different signature
+
+
 
 # program to to add 4 numbers using overloading ---->
 class Calculator:
@@ -14,3 +17,4 @@ e = Calculator()
 e.addition(12,4)
 e.addition(12,4,3)
 e.addition(12,4,3,4)
+
