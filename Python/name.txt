@@ -1,1 +1,0 @@
-& "C:/Program Files/Python313/python.exe" "c:/Users/Chinmay Deshpande/Desktop/Atharv Penter/Python/NUMPY & PANDAS/day3.py"
