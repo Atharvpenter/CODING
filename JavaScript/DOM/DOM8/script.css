@@ -1,0 +1,20 @@
+p{
+    background-color: aqua;
+}
+.fr{
+    font-style: italic;
+    font-size: medium;
+    color: brown;
+    border-radius: 10%;
+}
+.vg{
+    font-style: italic;
+    font-size: medium;
+    color: blueviolet;
+    border-radius: 10%;
+}
+#one{
+    background-color: blanchedalmond;
+    width: fit-content;
+    height: fit-content;
+}
