@@ -1,0 +1,11 @@
+Exam No,Student,Sem1,Sem2,Sem3,Sem4,Result,1st Year percentage,2nd Year percentage
+1,student1,34,40,50,32,Fail,37,41
+2,student2,45,22,67,55,Fail,33.5,61
+3,student3,67,32,44,34,Fail,49.5,39
+4,student4,38,42,27,34,Fail,40,30.5
+5,student5,56,50,67,44,Pass,53,55.5
+6,student6,76,67,56,44,Pass,71.5,50
+7,student7,66,44,76,38,Pass,55,57
+8,student8,45,27,55,56,Fail,36,55.5
+9,student9,66,44,45,55,Pass,55,50
+10,student10,73,55,66,88,Pass,64,77
